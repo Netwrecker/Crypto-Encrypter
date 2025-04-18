@@ -35,8 +35,8 @@ Please note that this application is a basic implementation and may require addi
 
 2. Install the required dependencies by running the following command in your terminal or command prompt:
 
-         _ pip install cryptography
-_
+         pip install cryptography
+
 3. Run the application by executing the following command in your terminal or command prompt:
 
          Ipython crypto_encrypter.py
