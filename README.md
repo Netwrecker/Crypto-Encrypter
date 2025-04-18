@@ -38,7 +38,7 @@ Please note that this application is a basic implementation and may require addi
          pip install cryptography
 
 3. **In windows**
-   * Run the application by executing the following command in your terminal or command prompt:
+ * Run the application by executing the following command in your terminal or command prompt:
 
          python crypto_encrypter.py
  4. **In Linux**  
