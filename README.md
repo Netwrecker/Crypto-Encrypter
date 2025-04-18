@@ -37,13 +37,18 @@ Please note that this application is a basic implementation and may require addi
 
          pip install cryptography
 
-3. Run the application by executing the following command in your terminal or command prompt:
+3. **In windows**
+   * Run the application by executing the following command in your terminal or command prompt:
 
-         Ipython crypto_encrypter.py
+         python crypto_encrypter.py
+ 4. **In Linux**  
+   * Run the application by executing the following command in your terminal or command prompt:
+
+         python3 crypto_encrypter.py
          
-4. A window will open with the application interface.
+5. A window will open with the application interface.
 
-5. Click the "Browse Files" button to select the file you want to encrypt or decrypt.
+6. Click the "Browse Files" button to select the file you want to encrypt or decrypt.
 
 5. Enter the file path in the text field provided.
 
