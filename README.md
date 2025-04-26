@@ -60,6 +60,37 @@ Please note that this application is a basic implementation and may require addi
 
 9. The encryption key is stored in a file named "secret.key". Make sure to keep this file secure and not share it with unauthorized individuals.
 
+# Output
 
+Here's an example output of the Crypto Encrypter application when running the script:
+
+```
+Generating key...
+Key generated successfully.
+```
+
+This message indicates that the encryption key has been generated and saved in the "secret.key" file.
+
+```
+Encrypting file...
+File encrypted successfully.
+```
+
+This message appears when the user clicks the "Encrypt" button and the selected file has been successfully encrypted.
+
+```
+Decrypting file...
+File decrypted successfully.
+```
+
+This message appears when the user clicks the "Decrypt" button and the selected file has been successfully decrypted.
+
+The application also displays informative messages to the user about the encryption and decryption process, such as "File encrypted successfully" and "File decrypted successfully".
+
+Please note that the actual output may vary based on the specific file you select and the actions you perform.
+
+Remember to keep the "secret.key" file secure and not share it with unauthorized individuals.
+
+For advanced usage, you can create executable files or scripts to run the application on different platforms without the need for Python installation.
 
 
